@@ -1,0 +1,380 @@
+{
+  "requests": [{
+      "id": 3,
+      "date": "2021-04-21T13:56:23",
+      "comment": "Hendriks",
+      "status": "open"
+    },
+    {
+      "id": 1,
+      "date": "2019-04-21T11:26:01",
+      "comment": "Hendriks II",
+      "status": "closed"
+    },
+    {
+      "id": 2,
+      "date": "2020-11-11T21:55:30Z",
+      "comment": "Molly",
+      "status": "closed"
+    },
+    {
+      "id": 4,
+      "date": "2021-05-12T22:55:30Z",
+      "comment": "Neva",
+      "status": "in progress"
+    },{
+      "id": 5,
+      "date": "2022-04-21T13:56:23",
+      "comment": "Pa",
+      "status": "open"
+    },
+    {
+      "id": 6,
+      "date": "2023-04-21T11:26:01",
+      "comment": "Fekete",
+      "status": "closed"
+    },
+    {
+      "id": 7,
+      "date": "2024-11-11T21:55:30Z",
+      "comment": "Kubben",
+      "status": "closed"
+    },
+    {
+      "id": 8,
+      "date": "2025-05-12T22:55:30Z",
+      "comment": "Barb",
+      "status": "in progress"
+    },
+    {
+      "id": 9,
+      "date": "2021-01-21T13:56:23",
+      "comment": "Hendriks",
+      "status": "open"
+    },
+    {
+      "id": 10,
+      "date": "2019-02-21T11:26:01",
+      "comment": "Hendriks II",
+      "status": "closed"
+    },
+    {
+      "id": 11,
+      "date": "2020-12-11T21:55:30Z",
+      "comment": "Molly",
+      "status": "closed"
+    },
+    {
+      "id": 12,
+      "date": "2021-03-12T22:55:30Z",
+      "comment": "Neva",
+      "status": "in progress"
+    },{
+      "id": 13,
+      "date": "2022-05-21T13:56:23",
+      "comment": "Pa",
+      "status": "open"
+    },
+    {
+      "id": 14,
+      "date": "2023-05-21T11:26:01",
+      "comment": "Fekete",
+      "status": "closed"
+    },
+    {
+      "id": 15,
+      "date": "2024-12-11T21:55:30Z",
+      "comment": "Kubben",
+      "status": "closed"
+    },
+    {
+      "id": 16,
+      "date": "2025-06-12T22:55:30Z",
+      "comment": "Barb",
+      "status": "in progress"
+    }
+  ],
+  "orders": [{
+      "id": 1,
+      "date": "2021-05-21T16:10:38",
+      "ordernumber": "20211596",
+      "ExactOrderCode": "20802",
+      "custref": "van Beurten",
+      "status": "Order received"
+    },
+    {
+      "id": 2,
+      "date": "2021-05-21T15:54:02",
+      "ordernumber": "20211595",
+      "ExactOrderCode": "20800",
+      "custref": "Joris Bierman",
+      "status": "order received"
+    },
+    {
+      "id": 3,
+      "date": "2021-05-20T14:21:21",
+      "ordernumber": "20211542",
+      "ExactOrderCode": "20728",
+      "custref": "12523",
+      "status": "invoiced"
+    },
+    {
+      "id": 4,
+      "date": "2021-05-20T15:42:21",
+      "ordernumber": "20211594",
+      "ExactOrderCode": "20798",
+      "custref": "700250560001 Jansen",
+      "status": "Order received"
+    },
+             {
+      "id": 5,
+      "date": "2021-04-12T16:10:38",
+      "ordernumber": "20211593",
+      "ExactOrderCode": "20797",
+      "custref": "Hanessen",
+      "status": "Order received"
+    },
+    {
+      "id": 6,
+      "date": "2021-03-20T15:54:02",
+      "ordernumber": "20211534",
+      "ExactOrderCode": "20800",
+      "custref": "Joris Bierman",
+      "status": "order received"
+    },
+    {
+      "id": 7,
+      "date": "2021-02-20T10:11:21",
+      "ordernumber": "20211533",
+      "ExactOrderCode": "20801",
+      "custref": "Hendriks",
+      "status": "invoiced"
+    },
+    {
+      "id": 8,
+      "date": "2021-03-20T11:11:11",
+      "ordernumber": "20211532",
+      "ExactOrderCode": "20802",
+      "custref": "Jansen",
+      "status": "Order received"
+    }
+  ],
+  "SKUs": [{
+      "id": 1,
+      "published": false,
+      "sku": "T-RC-507-27-2-9500-STD-B-B",
+      "price": 1415.9
+    },
+    {
+      "id": 2,
+      "published": true,
+      "sku": "T-RC-217-25-9-7657-STD-B-B",
+      "price": 9142.5
+    },
+    {
+      "id": 3,
+      "published": true,
+      "sku": "T-RC-390-42-3-1992-STD-B-B",
+      "price": 3865.76
+    },
+    {
+      "id": 4,
+      "published": true,
+      "sku": "T-RC-965-70-2-3249-STD-B-B",
+      "price": 1681.81
+    },
+    {
+      "id": 5,
+      "published": false,
+      "sku": "T-RC-120-23-8-5712-STD-B-B",
+      "price": 2187.76
+    },
+    {
+      "id": 6,
+      "published": false,
+      "sku": "T-RC-759-71-4-7907-STD-B-B",
+      "price": 3838.8
+    },
+    {
+      "id": 7,
+      "published": true,
+      "sku": "T-RC-897-93-5-3083-STD-B-B",
+      "price": 4155.99
+    },
+    {
+      "id": 8,
+      "published": true,
+      "sku": "T-RC-905-60-0-6119-STD-B-B",
+      "price": 5289.14
+    },
+    {
+      "id": 9,
+      "published": false,
+      "sku": "T-RC-405-42-3-9335-STD-B-B",
+      "price": 629.32
+    },
+    {
+      "id": 10,
+      "published": true,
+      "sku": "T-RC-695-84-3-2283-STD-B-B",
+      "price": 4526.98
+    },
+    {
+      "id": 11,
+      "published": false,
+      "sku": "T-RC-310-38-5-2224-STD-B-B",
+      "price": 2066.17
+    },
+    {
+      "id": 12,
+      "published": false,
+      "sku": "T-RC-895-51-6-7261-STD-B-B",
+      "price": 5935.57
+    },
+    {
+      "id": 13,
+      "published": false,
+      "sku": "T-RC-717-84-3-7690-STD-B-B",
+      "price": 4972.37
+    },
+    {
+      "id": 14,
+      "published": true,
+      "sku": "T-RC-847-54-1-0976-STD-B-B",
+      "price": 1547.32
+    },
+    {
+      "id": 15,
+      "published": true,
+      "sku": "T-RC-730-22-8-7548-STD-B-B",
+      "price": 2537.63
+    },
+    {
+      "id": 16,
+      "published": true,
+      "sku": "T-RC-312-08-6-1489-STD-B-B",
+      "price": 6481.89
+    },
+    {
+      "id": 17,
+      "published": false,
+      "sku": "T-RC-469-30-8-6537-STD-B-B",
+      "price": 2094.83
+    },
+    {
+      "id": 18,
+      "published": true,
+      "sku": "T-RC-567-06-1-8187-STD-B-B",
+      "price": 53.31
+    },
+    {
+      "id": 19,
+      "published": false,
+      "sku": "T-RC-862-40-5-3419-STD-B-B",
+      "price": 6000.39
+    },
+    {
+      "id": 20,
+      "published": false,
+      "sku": "T-RC-894-69-8-4783-STD-B-B",
+      "price": 3479.44
+    },
+    {
+      "id": 21,
+      "published": false,
+      "sku": "T-RC-878-59-5-9512-STD-B-B",
+      "price": 4531.67
+    },
+    {
+      "id": 22,
+      "published": true,
+      "sku": "T-RC-596-27-0-8128-STD-B-B",
+      "price": 7212.35
+    },
+    {
+      "id": 23,
+      "published": false,
+      "sku": "T-RC-145-12-4-1288-STD-B-B",
+      "price": 7936.92
+    },
+    {
+      "id": 24,
+      "published": false,
+      "sku": "T-RC-494-27-0-0073-STD-B-B",
+      "price": 5772.52
+    },
+    {
+      "id": 25,
+      "published": true,
+      "sku": "T-RC-017-99-0-1119-STD-B-B",
+      "price": 7108.61
+    },
+    {
+      "id": 26,
+      "published": false,
+      "sku": "T-RC-445-76-6-5461-STD-B-B",
+      "price": 7143.33
+    },
+    {
+      "id": 27,
+      "published": false,
+      "sku": "T-RC-078-04-8-6206-STD-B-B",
+      "price": 9793.57
+    },
+    {
+      "id": 28,
+      "published": true,
+      "sku": "T-RC-253-43-8-6394-STD-B-B",
+      "price": 5593.6
+    },
+    {
+      "id": 29,
+      "published": true,
+      "sku": "T-RC-556-44-4-2994-STD-B-B",
+      "price": 5342.69
+    }
+  ],
+  "stocks": [{
+      "id": 1,
+      "description": "Frames Butterfly Quadpod <br />Frame finish: Steel black powdercoating",
+      "SKU": "BQ-B",
+      "inStock": 56
+    },
+    {
+      "id": 2,
+      "description": "Frames Butterfly Quadpod <br />Frame finish: Steel white powdercoating",
+      "SKU": "BQ-W",
+      "inStock": 7
+    },
+             {
+      "id": 3,
+      "description": "Dining table top<br />Top shape: Rectangular<br />Top edge finish: Chamfered round corners<br />Top finish: Oak hardwax oil natural light 3041 (3041)<br />Top length: 200cm<br />Top width: 90cm<br />Top thickness: 3cm",
+      "SKU": "T-RC-200-90-3-3041-CRC",
+      "inStock": 24
+    },
+    {
+      "id": 4,
+      "description": "Dining bench frame New Classic Bench<br />Frame finish: Steel white powdercoating",
+      "SKU": "NCB-W",
+      "inStock": 5
+    },
+    {
+      "id": 5,
+      "description": "Coffee table frame<br />Frame finish: Black",
+      "SKU": "BQC400-B",
+      "inStock": 3
+    },
+    {
+      "id": 6,
+      "description": "Coffee table tops<br />Top finish: Oak black lacquer (9005)<br />Top shape: Round<br />Diameter: 70cm<br />Top thickness: 3cm<br />Top edge finish: Chamfered",
+      "SKU": "CT-RD-70-3-9005-C",
+      "inStock": 11
+    },
+    {
+      "id": 7,
+      "description": "Frames Slim X-type<br />Frame finish: Steel black powdercoating",
+      "SKU": "SX-B",
+      "inStock": 18
+    }
+  ]
+}
