@@ -120,5 +120,335 @@
       "comment": "Nunc rhoncus dui vel sem. Sed sagittis.",
       "status": "open"
     }
+  ],
+    "samplesPacks": [
+    {
+      "samplePackID": 1,
+      "samplePackName": "Nordic Pack",
+      "samplePackDesc": "Boasting a variety of neutral colours, discover this pack of classic Studio HENK fabrics and natural light oak.",
+      "samplePackSlideImageSrcSet": "/Images/bricks/slider-var-B/sample-pack1.jpg 1x, /Images/bricks/slider-var-B/sample-pack1.jpg 2x",
+      "samplePackImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+      "samplePackImageMedium": "https://via.placeholder.com/1534x1534",
+      "samplePackPrice": 4,
+      "samplePackSamples": [
+        {
+          "sampleID": 12345,
+          "sampleName": "Oak hardwax natural light",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 4,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "yellow",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "walnut"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12346,
+          "sampleName": "Oak hardwax natural",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_lak.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 3,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "blue",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        },
+        {
+          "sampleID": 12347,
+          "sampleName": "Oak Black Satin",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 1,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "beige",
+            "green",
+            "multicolor"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12348,
+          "sampleName": "Oak Smoked stain",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 2,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "yellow",
+            "orange"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        }
+      ]
+    },
+    {
+      "samplePackID": 2,
+      "samplePackName": "Sahara Pack",
+      "samplePackDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+      "samplePackSlideImage": "/Images/bricks/slider-var-B/sample-pack2",
+      "samplePackImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+      "samplePackImageMedium": "https://via.placeholder.com/1534x1534",
+      "samplePackPrice": 4,
+      "samplePackSamples": [
+        {
+          "sampleID": 12345,
+          "sampleName": "Oak hardwax natural light",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 4,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "yellow",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "walnut"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12346,
+          "sampleName": "Oak hardwax natural",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_lak.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 3,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "blue",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        },
+        {
+          "sampleID": 12347,
+          "sampleName": "Oak Black Satin",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 1,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "beige",
+            "green",
+            "multicolor"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12348,
+          "sampleName": "Oak Smoked stain",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 2,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "yellow",
+            "orange"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        }
+      ]
+    },
+    {
+      "samplePackID": 3,
+      "samplePackName": "Tundra Pack",
+      "samplePackDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+      "samplePackSlideImage": "/Images/bricks/slider-var-B/sample-pack2",
+      "samplePackImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+      "samplePackImageMedium": "https://via.placeholder.com/1534x1534",
+      "samplePackPrice": 4,
+      "samplePackSamples": [
+        {
+          "sampleID": 12345,
+          "sampleName": "Oak hardwax natural light",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 4,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "yellow",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "walnut"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12346,
+          "sampleName": "Oak hardwax natural",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_lak.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 3,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "blue",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        },
+        {
+          "sampleID": 12347,
+          "sampleName": "Oak Black Satin",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 1,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "beige",
+            "green",
+            "multicolor"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12348,
+          "sampleName": "Oak Smoked stain",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 2,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "yellow",
+            "orange"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        }
+      ]
+    },
+    {
+      "samplePackID": 4,
+      "samplePackName": "Puszta Pack",
+      "samplePackDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+      "samplePackSlideImage": "/Images/bricks/slider-var-B/sample-pack2",
+      "samplePackImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+      "samplePackImageMedium": "https://via.placeholder.com/1534x1534",
+      "samplePackPrice": 4,
+      "samplePackSamples": [
+        {
+          "sampleID": 12345,
+          "sampleName": "Oak hardwax natural light",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_hardwax.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 4,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "yellow",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "walnut"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12346,
+          "sampleName": "Oak hardwax natural",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://assets.studio-henk.nl/assets/Images/configurator/top%20finish/textures_oak_lak.jpg",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 3,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "red",
+            "blue",
+            "dark blue"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        },
+        {
+          "sampleID": 12347,
+          "sampleName": "Oak Black Satin",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 1,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "beige",
+            "green",
+            "multicolor"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": true
+        },
+        {
+          "sampleID": 12348,
+          "sampleName": "Oak Smoked stain",
+          "sampleDesc": "Lorem ipsum dolor sit amet, consectetur adiping lit. Nisi, neque, nullam adipiscing praesent ida.",
+          "sampleImageSmall": "https://via.placeholder.com/160x160",
+          "sampleImageMedium": "https://via.placeholder.com/1534x1534",
+          "samplePrice": 2,
+          "sampleGroup": "Wood",
+          "sampleColors": [
+            "yellow",
+            "orange"
+          ],
+          "sampleMaterials": [
+            "oak"
+          ],
+          "sampleOutdoor": false
+        }
+      ]
+    }
   ]
 }
